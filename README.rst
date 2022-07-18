@@ -1,5 +1,7 @@
 .. -*- mode: rst -*-
 
+YO'!  CHECK OUT https://github.com/scikit-learn/scikit-learn
+
 |Azure|_ |Travis|_ |Codecov|_ |CircleCI|_ |Nightly wheels|_ |Black|_ |PythonVersion|_ |PyPi|_ |DOI|_ |Benchmark|_
 
 .. |Azure| image:: https://dev.azure.com/scikit-learn/scikit-learn/_apis/build/status/scikit-learn.scikit-learn?branchName=main
